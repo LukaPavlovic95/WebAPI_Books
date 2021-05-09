@@ -1,0 +1,13 @@
+C:\Users\Luka\source\repos\ServiceRep\bin\Debug\netcoreapp3.1\ServiceRep.deps.json
+C:\Users\Luka\source\repos\ServiceRep\bin\Debug\netcoreapp3.1\ServiceRep.dll
+C:\Users\Luka\source\repos\ServiceRep\bin\Debug\netcoreapp3.1\ServiceRep.pdb
+C:\Users\Luka\source\repos\ServiceRep\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Luka\source\repos\ServiceRep\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Luka\source\repos\ServiceRep\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Luka\source\repos\ServiceRep\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Luka\source\repos\ServiceRep\obj\Debug\netcoreapp3.1\ServiceRep.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\ServiceRep\obj\Debug\netcoreapp3.1\ServiceRep.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\ServiceRep\obj\Debug\netcoreapp3.1\ServiceRep.AssemblyInfo.cs
+C:\Users\Luka\source\repos\ServiceRep\obj\Debug\netcoreapp3.1\ServiceRep.csproj.CopyComplete
+C:\Users\Luka\source\repos\ServiceRep\obj\Debug\netcoreapp3.1\ServiceRep.dll
+C:\Users\Luka\source\repos\ServiceRep\obj\Debug\netcoreapp3.1\ServiceRep.pdb

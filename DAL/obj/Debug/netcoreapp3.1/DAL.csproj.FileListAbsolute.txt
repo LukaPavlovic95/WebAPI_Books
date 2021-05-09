@@ -1,0 +1,8 @@
+C:\Users\Luka\source\repos\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\Luka\source\repos\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Luka\source\repos\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Luka\source\repos\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\Luka\source\repos\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Luka\source\repos\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
